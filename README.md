@@ -1,4 +1,4 @@
-phonebook
+job_fridays
 =========
 
-Little phonebook-management program made for the first Hackerschool Job-Prep Friday. Hasn't been cleaned up at all...
+Bits of code for job fridays at hacker school.
